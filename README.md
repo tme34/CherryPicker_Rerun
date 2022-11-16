@@ -60,8 +60,10 @@ The scripts expect an Excel file with the following headers:
 ```text
 ├── Rerun_script_V2.py              # Main worklist generator
 ├── Destination_Scan_Tjek_script.py # Verification script
-├── /Input/                         # Raw 'Undetermined' Excel files
+├── rerunbatchV2.bat                # Windows-batchfile
+├── Dest_scan_batch.bat             # Windows-batchfile
 ├── /Worklists/                     # Output for Biomek instructions
-├── /Reverse_Worklists/             # Output for traceability mapping
-└── /Verification_Logs/             # Result logs from the Tjek script
+└── /Reverse_Worklists/             # Output for traceability mapping
+
+
 
