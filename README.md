@@ -44,7 +44,7 @@ The secondary verification script (Quality Control).
 ---
 
 ## 📊 Data Input Format
-The scripts expect an Excel file with the following headers:
+The scripts expect an Excel file with the following columns, but the headers should NOT be present:
 
 | Header | Description |
 | :--- | :--- |
@@ -64,6 +64,7 @@ The scripts expect an Excel file with the following headers:
 ├── Dest_scan_batch.bat             # Windows-batchfile
 ├── /Worklists/                     # Output for Biomek instructions
 └── /Reverse_Worklists/             # Output for traceability mapping
+
 
 
 
