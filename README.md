@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Liquid%20Handling-Beckman%20Coulter-blue" alt="Biomek">
   <img src="https://img.shields.io/badge/Workflow-Automation-green" alt="Automation">
-  <img src="https://img.shields.io/badge/Python-Data%20Processing-yellow" alt="Python">
+  <img src="https://img.shields.io/badge/R-Data%20Processing-yellow" alt="R">
 </p>
 
 ## 📋 Overview
@@ -64,3 +64,4 @@ The scripts expect an Excel file with the following headers:
 ├── /Worklists/                     # Output for Biomek instructions
 ├── /Reverse_Worklists/             # Output for traceability mapping
 └── /Verification_Logs/             # Result logs from the Tjek script
+
